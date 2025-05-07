@@ -3,3 +3,4 @@ Key python library versions：
     pytorch 2.3.1
     gym 0.9.2
 
+loaddisEnv.py needs to be registered in gym.
